@@ -1,0 +1,6 @@
+{
+  "name": "Gemma 4 31B AI Chatbot",
+  "description": "Next-generation conversational assistant powered by Google Gemma 4 31B with 256K context reasoning, rich code highlighting, persona customization, and interactive controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
